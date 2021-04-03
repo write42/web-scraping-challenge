@@ -90,3 +90,5 @@ hemisphere_image_urls = [
     {"title": "Syrtis Major Hemisphere", "img_url": "https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg"},
 ]
 
+
+browser.quit()
